@@ -1,0 +1,7 @@
+npx create-react-app my-app
+npm install -D tailwindcss
+npx tailwindcss init
+npm i react-router-dom
+npm i axios
+npm i cors
+npm install --save react-toastify
